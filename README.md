@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HaringYu
+- 👋 *Hi, I’m @HaringYu*
 - 👀 I’m interested in web development right now.
 - 🌱 I’m currently learning html and css.
 - 💞️ I do some fan artworks of some Japanese Anime and Manga.
